@@ -2,6 +2,7 @@
 title: Build RegEx
 author: swade
 layout: post
+comments: true
 ---
 Regular Expressions, does anyone actually like them? I suck at them. If you&#8217;re like me at all, you struggle with them too. When I need to use regular expressions, I spend countless amounts of time on <a href="http://regexpal.com/" target="_blank">RegexPal</a> trying to find just the right combination. That&#8217;s why I built <a href="http://buildregex.com/" target="_blank">Build RegEx</a>.
 

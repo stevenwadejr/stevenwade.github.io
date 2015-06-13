@@ -2,6 +2,7 @@
 title: 'The Web Helped Me See Through My Wife&#8217;s Eyes'
 author: Steven Wade
 layout: post
+comments: true
 ---
 ![](/assets/article_images/2014-03-05-the-web-helped-me-see-through-my-wifes-eyes/classroom_0_0_0-1024x576.jpg)
 

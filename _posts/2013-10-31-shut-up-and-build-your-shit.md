@@ -2,6 +2,7 @@
 title: '&#8220;Don&#8217;t Bind Yourself To A Framework&#8221;: or, Shut Up and Build Your Shit'
 author: swade
 layout: post
+comments: true
 ---
 It&#8217;s almost November and boy has 2013 been a rough year for PHP. From what I gather, it&#8217;s &#8220;hip&#8221; to hate PHP right now. With so many outsiders, and insiders, fighting and bashing the language and each other as if they were high school rivals, I&#8217;ve been rather surprised and elated to see the formation of the <a href="http://www.php-fig.org/" target="_blank">PHP FIG</a> and the work they&#8217;ve done with the PSR standard. Having so many library and framework authors come together, agree upon a standard way of doing things in order to make their code interoperable, and then actually upgrading their code to meet said standard is an amazing feat that just a short while ago would have seemed impossible.
 

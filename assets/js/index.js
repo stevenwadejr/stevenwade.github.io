@@ -28,7 +28,7 @@
 
     if ($('.home').length > 0) {
         $(window).on('scroll', function(){
-            if ($(window).scrollTop() >= 450) {
+            if ($(window).scrollTop() >= $('.teaserimage').height()) {
                 $('.logo-readium').addClass('dark');
             } else {
                 $('.logo-readium').removeClass('dark');
