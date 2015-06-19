@@ -3,8 +3,8 @@ title: 'The Web Helped Me See Through My Wife&#8217;s Eyes'
 author: Steven Wade
 layout: post
 comments: true
+image: /assets/article_images/2014-03-05-the-web-helped-me-see-through-my-wifes-eyes/classroom_0_0_0.jpg
 ---
-![](/assets/article_images/2014-03-05-the-web-helped-me-see-through-my-wifes-eyes/classroom_0_0_0-1024x576.jpg)
 
 Most people go about their every day lives worrying over the smallest things. They get angry when someone steals their parking space, when a baby won&#8217;t stop crying in a public setting, or when the quality of their latest Netflix binge is below Super HD. We bicker and we moan over the most minuscule &#8220;problems&#8221; in our lives. We too easily lose sight of what is really important in life and we take for granted the many blessings each us receives on a daily basis. When was the last time any of us gave a gave a second thought to the roll that our sense of smell plays upon the foods we eat? Or the fact that our sense of touch is sensitive enough to detect the difference between a house and a car if our fingertips were the size of the Earth. We pay no attention to the fact that we have almost a 270 degree field of vision (including head and eye rotation), or that our brain is capable of distinguishing about 10 million different colors. The human body is capable of amazing things, under normal circumstances. But what about those who&#8217;s circumstances are a little less normal?
 
