@@ -27,13 +27,17 @@
     });
 
     if ($('.home').length > 0) {
-        $(window).on('scroll', function(){
-            if ($(window).scrollTop() >= $('.teaserimage').height()) {
-                $('.logo-readium').addClass('dark');
-            } else {
-                $('.logo-readium').removeClass('dark');
-            }
-        });
+        var $headerImage = $('.teaserimage');
+    } else {
+        var $headerImage = $('.article-image');
     }
+
+    $(window).on('scroll', function(){
+        if ($(window).scrollTop() >= $headerImage.height()) {
+            $('.logo-readium').addClass('dark');
+        } else {
+            $('.logo-readium').removeClass('dark');
+        }
+    });
 
 }(jQuery));
