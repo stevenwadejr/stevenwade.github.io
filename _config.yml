@@ -9,12 +9,13 @@ permalink: pretty
 
 #Build Settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 paginate:   5
 
 gems:
   - jemoji
   - jekyll-sitemap
+  - jekyll-paginate
 
 # Content Settings
 logo: "/assets/images/author.jpg"

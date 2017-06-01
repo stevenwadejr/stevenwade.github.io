@@ -386,13 +386,13 @@ body
       margin: 0
       padding-bottom: 24px
       color: $body-text-color
-      -webkit-hyphens: auto
-      -moz-hyphens: auto
-      hyphens: auto
+      // -webkit-hyphens: auto
+      // -moz-hyphens: auto
+      // hyphens: auto
     a
       color: $body-text-color
       text-decoration: underline
-    img
+    img:not(.emoji)
       border: 1px solid #ccc
       border-radius: 4px
       display: block
@@ -621,3 +621,5 @@ pre
     border: 0
     padding-right: 0
     padding-left: 0
+    white-space: pre-wrap
+    word-break: break-all
