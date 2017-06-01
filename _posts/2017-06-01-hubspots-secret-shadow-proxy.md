@@ -3,7 +3,7 @@ title: 'HubSpot&#8217;s Secret Shadow Proxy'
 author: Steven Wade
 layout: post
 comments: true
-image: /assets/article_images/2017-06-02-hubspots-secret-shadow-proxy/pexels-photo-316681.jpeg
+image: /assets/article_images/2017-06-01-hubspots-secret-shadow-proxy/pexels-photo-316681.jpeg
 ---
 
 I’ve got beef with the HubSpot API and it has its fair share of issues. I’ll do another post in the future discussing those more, but that’s not the focus of this post.
@@ -85,4 +85,4 @@ At this point, I was feeling pretty clever and sufficiently satisfied with mysel
 
 So that’s where my journey ended. I’m no closer to API bliss than when I started, but I do feel a sense of joy for having discovered something that most people (if any?) in the general HubSpot API user public don’t know about. So I got that going for me, which is nice.
 
-![](/assets/article_images/2017-06-02-hubspots-secret-shadow-proxy/which-is-nice.jpg)
+![](/assets/article_images/2017-06-01-hubspots-secret-shadow-proxy/which-is-nice.jpg)
