@@ -6,7 +6,7 @@ comments: true
 image: /assets/article_images/2017-06-01-hubspots-secret-shadow-proxy/pexels-photo-316681.jpeg
 ---
 
-I’ve got beef with the HubSpot API and it has its fair share of issues. I’ll do another post in the future discussing those more, but that’s not the focus of this post.
+I’ve got beef with the [HubSpot API](https://developers.hubspot.com/docs/overview) and it has its fair share of issues. I’ll do another post in the future discussing those more, but that’s not the focus of this post.
 
 HubSpot has a secret, and I’ve found it out. 
 
